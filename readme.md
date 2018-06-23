@@ -13,6 +13,6 @@ Result: There is no match of two numbers that are added to produce the target nu
 ### Test
 The index.js file includes a test function that generates a random array and a random target number. You can set some constants to vary the numbers and range of the numbers.
 
-> const NUMBERS_RANGE: set the range of numbers for a given array
-> const NUMBER_OF_NUMBERS: set the number of numbers for a given array
-> const TARGET_RANGE: set the range of a target number
+* const NUMBERS_RANGE: set the range of numbers for a given array
+* const NUMBER_OF_NUMBERS: set the number of numbers for a given array
+* const TARGET_RANGE: set the range of a target number
